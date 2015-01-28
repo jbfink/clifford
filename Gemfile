@@ -1,0 +1,3 @@
+gem 'shotgun'
+gem 'sinatra', git: 'git@github.com:sinatra/sinatra.git'
+gem 'haml'
