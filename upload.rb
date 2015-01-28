@@ -1,3 +1,4 @@
+# note: the upload thing, look into Open-URI to post the file to a URL
 require 'rubygems'
 #require 'bundler/setup'
 
